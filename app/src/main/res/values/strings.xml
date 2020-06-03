@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KoinMvvmSample</string>
+
+    <string name="waiting">기다려주세요..</string>
+</resources>
